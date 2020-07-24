@@ -1,0 +1,32 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"
+     xmlns:gx = "http://www.google.com/kml/ext/2.2" > 
+<Document>
+      <Style id="track">
+         <IconStyle>
+            <color>ff0000ff</color>
+            <colorMode>normal</colorMode>
+            <scale> 0.50</scale>
+            <Icon>
+               <href>http://maps.google.com/mapfiles/kml/shapes/track.png</href>
+            </Icon>
+         </IconStyle>
+         <LabelStyle>
+            <color>ff0000ff</color>
+            <scale>7.000000e-01</scale>
+         </LabelStyle>
+      </Style>
+   <Placemark>
+      <styleUrl>#track</styleUrl>
+      <Style> <IconStyle>  <heading>0.000000</heading> </IconStyle>  </Style>
+      <Point>
+         <coordinates>120.000000000,30.999998635,0.000000</coordinates>
+      </Point>
+      <ExtendedData>
+         <Data name="Index">
+         <value>0</value>
+         </Data>
+      </ExtendedData>
+   </Placemark>
+</Document>
+</kml>

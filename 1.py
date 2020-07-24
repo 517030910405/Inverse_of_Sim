@@ -1,3 +1,4 @@
 import Inverser
-print(Inverser.csvLoad.load_vel())
-print(Inverser.csvLoad.load_input())
+# Inverser.GenOutput.sim()
+# Inverser.GenOutput.run()
+print(Inverser.GenOutput.sim_run())

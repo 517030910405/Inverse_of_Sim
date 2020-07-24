@@ -1,0 +1,512 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"
+     xmlns:gx = "http://www.google.com/kml/ext/2.2" > 
+<Document>
+      <Style id="track">
+         <IconStyle>
+            <color>ffff0000</color>
+            <colorMode>normal</colorMode>
+            <scale> 0.50</scale>
+            <Icon>
+               <href>http://maps.google.com/mapfiles/kml/shapes/track.png</href>
+            </Icon>
+         </IconStyle>
+         <LabelStyle>
+            <color>ffff0000</color>
+            <scale>7.000000e-01</scale>
+         </LabelStyle>
+      </Style>
+   <Placemark>
+      <styleUrl>#track</styleUrl>
+      <Style> <IconStyle>  <heading>0.000000</heading> </IconStyle>  </Style>
+      <Point>
+         <coordinates>120.000000000,30.200000000,0.000000</coordinates>
+      </Point>
+      <ExtendedData>
+         <Data name="Index">
+         <value>0</value>
+         </Data>
+      </ExtendedData>
+   </Placemark>
+   <Placemark>
+      <styleUrl>#track</styleUrl>
+      <Style> <IconStyle>  <heading>0.002345</heading> </IconStyle>  </Style>
+      <Point>
+         <coordinates>120.000000000,30.200018042,0.000000</coordinates>
+      </Point>
+      <ExtendedData>
+         <Data name="Index">
+         <value>100</value>
+         </Data>
+      </ExtendedData>
+   </Placemark>
+   <Placemark>
+      <styleUrl>#track</styleUrl>
+      <Style> <IconStyle>  <heading>0.001584</heading> </IconStyle>  </Style>
+      <Point>
+         <coordinates>119.999999996,30.200036093,0.000000</coordinates>
+      </Point>
+      <ExtendedData>
+         <Data name="Index">
+         <value>200</value>
+         </Data>
+      </ExtendedData>
+   </Placemark>
+   <Placemark>
+      <styleUrl>#track</styleUrl>
+      <Style> <IconStyle>  <heading>0.000536</heading> </IconStyle>  </Style>
+      <Point>
+         <coordinates>119.999999983,30.200054154,0.000000</coordinates>
+      </Point>
+      <ExtendedData>
+         <Data name="Index">
+         <value>300</value>
+         </Data>
+      </ExtendedData>
+   </Placemark>
+   <Placemark>
+      <styleUrl>#track</styleUrl>
+      <Style> <IconStyle>  <heading>0.002279</heading> </IconStyle>  </Style>
+      <Point>
+         <coordinates>119.999999964,30.200072232,0.000892</coordinates>
+      </Point>
+      <ExtendedData>
+         <Data name="Index">
+         <value>400</value>
+         </Data>
+      </ExtendedData>
+   </Placemark>
+   <Placemark>
+      <styleUrl>#track</styleUrl>
+      <Style> <IconStyle>  <heading>0.005783</heading> </IconStyle>  </Style>
+      <Point>
+         <coordinates>119.999999944,30.200090331,0.001747</coordinates>
+      </Point>
+      <ExtendedData>
+         <Data name="Index">
+         <value>500</value>
+         </Data>
+      </ExtendedData>
+   </Placemark>
+   <Placemark>
+      <styleUrl>#track</styleUrl>
+      <Style> <IconStyle>  <heading>0.017044</heading> </IconStyle>  </Style>
+      <Point>
+         <coordinates>119.999999937,30.200108457,0.002249</coordinates>
+      </Point>
+      <ExtendedData>
+         <Data name="Index">
+         <value>600</value>
+         </Data>
+      </ExtendedData>
+   </Placemark>
+   <Placemark>
+      <styleUrl>#track</styleUrl>
+      <Style> <IconStyle>  <heading>0.016922</heading> </IconStyle>  </Style>
+      <Point>
+         <coordinates>119.999999932,30.200126606,0.002411</coordinates>
+      </Point>
+      <ExtendedData>
+         <Data name="Index">
+         <value>700</value>
+         </Data>
+      </ExtendedData>
+   </Placemark>
+   <Placemark>
+      <styleUrl>#track</styleUrl>
+      <Style> <IconStyle>  <heading>0.020847</heading> </IconStyle>  </Style>
+      <Point>
+         <coordinates>119.999999923,30.200144778,0.002964</coordinates>
+      </Point>
+      <ExtendedData>
+         <Data name="Index">
+         <value>800</value>
+         </Data>
+      </ExtendedData>
+   </Placemark>
+   <Placemark>
+      <styleUrl>#track</styleUrl>
+      <Style> <IconStyle>  <heading>0.020372</heading> </IconStyle>  </Style>
+      <Point>
+         <coordinates>119.999999901,30.200162969,0.003172</coordinates>
+      </Point>
+      <ExtendedData>
+         <Data name="Index">
+         <value>900</value>
+         </Data>
+      </ExtendedData>
+   </Placemark>
+   <Placemark>
+      <styleUrl>#track</styleUrl>
+      <Style> <IconStyle>  <heading>0.021748</heading> </IconStyle>  </Style>
+      <Point>
+         <coordinates>119.999999866,30.200181177,0.004131</coordinates>
+      </Point>
+      <ExtendedData>
+         <Data name="Index">
+         <value>1000</value>
+         </Data>
+      </ExtendedData>
+   </Placemark>
+   <Placemark>
+      <styleUrl>#track</styleUrl>
+      <Style> <IconStyle>  <heading>0.018700</heading> </IconStyle>  </Style>
+      <Point>
+         <coordinates>119.999999818,30.200199392,0.004897</coordinates>
+      </Point>
+      <ExtendedData>
+         <Data name="Index">
+         <value>1100</value>
+         </Data>
+      </ExtendedData>
+   </Placemark>
+   <Placemark>
+      <styleUrl>#track</styleUrl>
+      <Style> <IconStyle>  <heading>0.010880</heading> </IconStyle>  </Style>
+      <Point>
+         <coordinates>119.999999766,30.200217618,0.005985</coordinates>
+      </Point>
+      <ExtendedData>
+         <Data name="Index">
+         <value>1200</value>
+         </Data>
+      </ExtendedData>
+   </Placemark>
+   <Placemark>
+      <styleUrl>#track</styleUrl>
+      <Style> <IconStyle>  <heading>0.005277</heading> </IconStyle>  </Style>
+      <Point>
+         <coordinates>119.999999708,30.200235844,0.006408</coordinates>
+      </Point>
+      <ExtendedData>
+         <Data name="Index">
+         <value>1300</value>
+         </Data>
+      </ExtendedData>
+   </Placemark>
+   <Placemark>
+      <styleUrl>#track</styleUrl>
+      <Style> <IconStyle>  <heading>0.003426</heading> </IconStyle>  </Style>
+      <Point>
+         <coordinates>119.999999643,30.200254057,0.006561</coordinates>
+      </Point>
+      <ExtendedData>
+         <Data name="Index">
+         <value>1400</value>
+         </Data>
+      </ExtendedData>
+   </Placemark>
+   <Placemark>
+      <styleUrl>#track</styleUrl>
+      <Style> <IconStyle>  <heading>0.004777</heading> </IconStyle>  </Style>
+      <Point>
+         <coordinates>119.999999568,30.200272252,0.006484</coordinates>
+      </Point>
+      <ExtendedData>
+         <Data name="Index">
+         <value>1500</value>
+         </Data>
+      </ExtendedData>
+   </Placemark>
+   <Placemark>
+      <styleUrl>#track</styleUrl>
+      <Style> <IconStyle>  <heading>-0.004255</heading> </IconStyle>  </Style>
+      <Point>
+         <coordinates>119.999999497,30.200290424,0.005787</coordinates>
+      </Point>
+      <ExtendedData>
+         <Data name="Index">
+         <value>1600</value>
+         </Data>
+      </ExtendedData>
+   </Placemark>
+   <Placemark>
+      <styleUrl>#track</styleUrl>
+      <Style> <IconStyle>  <heading>-0.002811</heading> </IconStyle>  </Style>
+      <Point>
+         <coordinates>119.999999414,30.200308565,0.004624</coordinates>
+      </Point>
+      <ExtendedData>
+         <Data name="Index">
+         <value>1700</value>
+         </Data>
+      </ExtendedData>
+   </Placemark>
+   <Placemark>
+      <styleUrl>#track</styleUrl>
+      <Style> <IconStyle>  <heading>0.005803</heading> </IconStyle>  </Style>
+      <Point>
+         <coordinates>119.999999319,30.200326682,0.004002</coordinates>
+      </Point>
+      <ExtendedData>
+         <Data name="Index">
+         <value>1800</value>
+         </Data>
+      </ExtendedData>
+   </Placemark>
+   <Placemark>
+      <styleUrl>#track</styleUrl>
+      <Style> <IconStyle>  <heading>0.004374</heading> </IconStyle>  </Style>
+      <Point>
+         <coordinates>119.999999226,30.200344775,0.003853</coordinates>
+      </Point>
+      <ExtendedData>
+         <Data name="Index">
+         <value>1900</value>
+         </Data>
+      </ExtendedData>
+   </Placemark>
+   <Placemark>
+      <styleUrl>#track</styleUrl>
+      <Style> <IconStyle>  <heading>0.006563</heading> </IconStyle>  </Style>
+      <Point>
+         <coordinates>119.999999123,30.200362847,0.003890</coordinates>
+      </Point>
+      <ExtendedData>
+         <Data name="Index">
+         <value>2000</value>
+         </Data>
+      </ExtendedData>
+   </Placemark>
+   <Placemark>
+      <styleUrl>#track</styleUrl>
+      <Style> <IconStyle>  <heading>0.008635</heading> </IconStyle>  </Style>
+      <Point>
+         <coordinates>119.999999021,30.200380896,0.003269</coordinates>
+      </Point>
+      <ExtendedData>
+         <Data name="Index">
+         <value>2100</value>
+         </Data>
+      </ExtendedData>
+   </Placemark>
+   <Placemark>
+      <styleUrl>#track</styleUrl>
+      <Style> <IconStyle>  <heading>0.010890</heading> </IconStyle>  </Style>
+      <Point>
+         <coordinates>119.999998927,30.200398915,0.002421</coordinates>
+      </Point>
+      <ExtendedData>
+         <Data name="Index">
+         <value>2200</value>
+         </Data>
+      </ExtendedData>
+   </Placemark>
+   <Placemark>
+      <styleUrl>#track</styleUrl>
+      <Style> <IconStyle>  <heading>0.012555</heading> </IconStyle>  </Style>
+      <Point>
+         <coordinates>119.999998853,30.200416916,0.001359</coordinates>
+      </Point>
+      <ExtendedData>
+         <Data name="Index">
+         <value>2300</value>
+         </Data>
+      </ExtendedData>
+   </Placemark>
+   <Placemark>
+      <styleUrl>#track</styleUrl>
+      <Style> <IconStyle>  <heading>0.012580</heading> </IconStyle>  </Style>
+      <Point>
+         <coordinates>119.999998790,30.200434905,0.000575</coordinates>
+      </Point>
+      <ExtendedData>
+         <Data name="Index">
+         <value>2400</value>
+         </Data>
+      </ExtendedData>
+   </Placemark>
+   <Placemark>
+      <styleUrl>#track</styleUrl>
+      <Style> <IconStyle>  <heading>0.012714</heading> </IconStyle>  </Style>
+      <Point>
+         <coordinates>119.999998725,30.200452886,0.000000</coordinates>
+      </Point>
+      <ExtendedData>
+         <Data name="Index">
+         <value>2500</value>
+         </Data>
+      </ExtendedData>
+   </Placemark>
+   <Placemark>
+      <styleUrl>#track</styleUrl>
+      <Style> <IconStyle>  <heading>0.013407</heading> </IconStyle>  </Style>
+      <Point>
+         <coordinates>119.999998674,30.200470861,0.000000</coordinates>
+      </Point>
+      <ExtendedData>
+         <Data name="Index">
+         <value>2600</value>
+         </Data>
+      </ExtendedData>
+   </Placemark>
+   <Placemark>
+      <styleUrl>#track</styleUrl>
+      <Style> <IconStyle>  <heading>0.009074</heading> </IconStyle>  </Style>
+      <Point>
+         <coordinates>119.999998638,30.200488836,0.000000</coordinates>
+      </Point>
+      <ExtendedData>
+         <Data name="Index">
+         <value>2700</value>
+         </Data>
+      </ExtendedData>
+   </Placemark>
+   <Placemark>
+      <styleUrl>#track</styleUrl>
+      <Style> <IconStyle>  <heading>0.010822</heading> </IconStyle>  </Style>
+      <Point>
+         <coordinates>119.999998610,30.200506808,0.000000</coordinates>
+      </Point>
+      <ExtendedData>
+         <Data name="Index">
+         <value>2800</value>
+         </Data>
+      </ExtendedData>
+   </Placemark>
+   <Placemark>
+      <styleUrl>#track</styleUrl>
+      <Style> <IconStyle>  <heading>0.011003</heading> </IconStyle>  </Style>
+      <Point>
+         <coordinates>119.999998582,30.200524785,0.000000</coordinates>
+      </Point>
+      <ExtendedData>
+         <Data name="Index">
+         <value>2900</value>
+         </Data>
+      </ExtendedData>
+   </Placemark>
+   <Placemark>
+      <styleUrl>#track</styleUrl>
+      <Style> <IconStyle>  <heading>0.015124</heading> </IconStyle>  </Style>
+      <Point>
+         <coordinates>119.999998564,30.200542759,0.000000</coordinates>
+      </Point>
+      <ExtendedData>
+         <Data name="Index">
+         <value>3000</value>
+         </Data>
+      </ExtendedData>
+   </Placemark>
+   <Placemark>
+      <styleUrl>#track</styleUrl>
+      <Style> <IconStyle>  <heading>0.014556</heading> </IconStyle>  </Style>
+      <Point>
+         <coordinates>119.999998557,30.200560731,0.000000</coordinates>
+      </Point>
+      <ExtendedData>
+         <Data name="Index">
+         <value>3100</value>
+         </Data>
+      </ExtendedData>
+   </Placemark>
+   <Placemark>
+      <styleUrl>#track</styleUrl>
+      <Style> <IconStyle>  <heading>0.010607</heading> </IconStyle>  </Style>
+      <Point>
+         <coordinates>119.999998551,30.200578688,0.000000</coordinates>
+      </Point>
+      <ExtendedData>
+         <Data name="Index">
+         <value>3200</value>
+         </Data>
+      </ExtendedData>
+   </Placemark>
+   <Placemark>
+      <styleUrl>#track</styleUrl>
+      <Style> <IconStyle>  <heading>0.015095</heading> </IconStyle>  </Style>
+      <Point>
+         <coordinates>119.999998530,30.200596617,0.000000</coordinates>
+      </Point>
+      <ExtendedData>
+         <Data name="Index">
+         <value>3300</value>
+         </Data>
+      </ExtendedData>
+   </Placemark>
+   <Placemark>
+      <styleUrl>#track</styleUrl>
+      <Style> <IconStyle>  <heading>0.013133</heading> </IconStyle>  </Style>
+      <Point>
+         <coordinates>119.999998495,30.200614512,0.000000</coordinates>
+      </Point>
+      <ExtendedData>
+         <Data name="Index">
+         <value>3400</value>
+         </Data>
+      </ExtendedData>
+   </Placemark>
+   <Placemark>
+      <styleUrl>#track</styleUrl>
+      <Style> <IconStyle>  <heading>0.014737</heading> </IconStyle>  </Style>
+      <Point>
+         <coordinates>119.999998463,30.200632381,0.000000</coordinates>
+      </Point>
+      <ExtendedData>
+         <Data name="Index">
+         <value>3500</value>
+         </Data>
+      </ExtendedData>
+   </Placemark>
+   <Placemark>
+      <styleUrl>#track</styleUrl>
+      <Style> <IconStyle>  <heading>0.019290</heading> </IconStyle>  </Style>
+      <Point>
+         <coordinates>119.999998442,30.200650228,0.000000</coordinates>
+      </Point>
+      <ExtendedData>
+         <Data name="Index">
+         <value>3600</value>
+         </Data>
+      </ExtendedData>
+   </Placemark>
+   <Placemark>
+      <styleUrl>#track</styleUrl>
+      <Style> <IconStyle>  <heading>0.017103</heading> </IconStyle>  </Style>
+      <Point>
+         <coordinates>119.999998431,30.200668048,0.000000</coordinates>
+      </Point>
+      <ExtendedData>
+         <Data name="Index">
+         <value>3700</value>
+         </Data>
+      </ExtendedData>
+   </Placemark>
+   <Placemark>
+      <styleUrl>#track</styleUrl>
+      <Style> <IconStyle>  <heading>0.022548</heading> </IconStyle>  </Style>
+      <Point>
+         <coordinates>119.999998434,30.200685850,0.000000</coordinates>
+      </Point>
+      <ExtendedData>
+         <Data name="Index">
+         <value>3800</value>
+         </Data>
+      </ExtendedData>
+   </Placemark>
+   <Placemark>
+      <styleUrl>#track</styleUrl>
+      <Style> <IconStyle>  <heading>0.025862</heading> </IconStyle>  </Style>
+      <Point>
+         <coordinates>119.999998452,30.200703639,0.000000</coordinates>
+      </Point>
+      <ExtendedData>
+         <Data name="Index">
+         <value>3900</value>
+         </Data>
+      </ExtendedData>
+   </Placemark>
+   <Placemark>
+      <styleUrl>#track</styleUrl>
+      <Style> <IconStyle>  <heading>0.025919</heading> </IconStyle>  </Style>
+      <Point>
+         <coordinates>119.999998496,30.200721410,0.000000</coordinates>
+      </Point>
+      <ExtendedData>
+         <Data name="Index">
+         <value>4000</value>
+         </Data>
+      </ExtendedData>
+   </Placemark>
+</Document>
+</kml>

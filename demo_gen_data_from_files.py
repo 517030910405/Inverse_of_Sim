@@ -30,7 +30,7 @@ def gen_data_first(data_dir):
 
     # start simulation
     sim = ins_sim.Sim([fs, fs_gps, fs_mag],
-                      motion_def_path+"//motion.csv",
+                      motion_def_path+"//motion2.csv",
                       ref_frame=0,
                       imu=imu,
                       mode=None,
@@ -52,7 +52,7 @@ def test_gen_data_from_files(data_dir):
     Free integration requires initial states (position, velocity and attitude). You should provide
     theses values when you create the algorithm object.
     '''
-    ini_pos_vel_att = np.genfromtxt(motion_def_path+"//motion.csv",\
+    ini_pos_vel_att = np.genfromtxt(motion_def_path+"//motion2.csv",\
                                     delimiter=',', skip_header=1, max_rows=1)
     ini_pos_vel_att[0] = ini_pos_vel_att[0] * D2R
     ini_pos_vel_att[1] = ini_pos_vel_att[1] * D2R

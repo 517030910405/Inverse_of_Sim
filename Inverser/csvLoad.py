@@ -5,6 +5,7 @@ from io import StringIO
 # print("csvLoad")
 def load_csv_value(csv_file="./output_file/tmp/ref_vel.csv"):
     data = pandas.read_csv(csv_file,sep=',')
+    # print(data)
     arr = np.array(data.to_numpy())
     return arr
         
