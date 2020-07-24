@@ -20,7 +20,7 @@ import sys
 D2R = math.pi/180
 
 motion_def_path = os.path.abspath('.//input_file//')
-fs = 100.0          # IMU sample frequency
+fs = 10.0          # IMU sample frequency
 fs_gps = 10.0       # GPS sample frequency
 fs_mag = fs         # magnetometer sample frequency, not used for now
 pose_fs = 10.0
