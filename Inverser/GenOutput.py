@@ -88,7 +88,7 @@ def default_sim_input(length = 6):
     command = np.zeros((length,9))
     init[0,0] = 30.
     init[0,1] = 120.
-    init[0,3] = 2.
+    init[0,3] = 1.
     command[:,7] += 1/pose_fs
     return init,command
     
