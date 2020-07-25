@@ -30,7 +30,7 @@ def gen_data_first(data_dir):
 
     # start simulation
     sim = ins_sim.Sim([fs, fs_gps, fs_mag],
-                      motion_def_path+"//motion2.csv",
+                      motion_def_path+"//motion_tmp.csv",
                       ref_frame=0,
                       imu=imu,
                       mode=None,
@@ -83,3 +83,7 @@ if __name__ == '__main__':
     dir_of_logged_files = os.path.abspath('.//output_file//tmp//')
     gen_data_first(dir_of_logged_files)
     test_gen_data_from_files(dir_of_logged_files)
+    for i in range(9):
+        dir_of_logged_files = os.path.abspath('.//output_file//tmp//')
+        gen_data_first(dir_of_logged_files)
+        test_gen_data_from_files(dir_of_logged_files)

@@ -62,7 +62,7 @@ def SimpleDescent(
     groundTruth = groundTruth-groundTruth[:1]
     inputData = Inverser.GenOutput.default_sim_input(length=groundTruth.shape[0])
     for i in range(1,groundTruth.shape[0]):
-        for _ in range(0,1):
+        for _ in range(0,10):
             for j in range(i-2,i):
                 for k in range(9):
                     if (j==-1 or k<=6 ):
